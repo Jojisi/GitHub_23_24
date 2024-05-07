@@ -1,1 +1,3 @@
-# GitHub_23_24
+# EXAMEN GitHub
+# Joan Jiménez Simón
+# Curso 2023-2024
